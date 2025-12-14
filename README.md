@@ -60,7 +60,6 @@ ppi-prediction/
 │   └── ...
 │
 ├── data/
-│   ├── proteins.fasta
 │   └── pairs.csv
 │
 ├── artifacts/
