@@ -175,9 +175,9 @@ All metrics are reported on a protein-disjoint test set.
 
 ## 10. Final Report
 
-The final report (IEEE journal, 1-column) is located at:
+The final report is located at:
 ```
-report/PPI_IEEE_Journal_OneColumn_Final_Aplus.pdf
+report/PPI_report.pdf
 ```
 
 ---
