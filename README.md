@@ -59,9 +59,6 @@ ppi-prediction/
 │   ├── embed.py
 │   └── ...
 │
-├── data/
-│   └── pairs.csv
-│
 ├── artifacts/
 │   ├── embeddings/
 │   │   └── esm2_mean_len1024.pt
